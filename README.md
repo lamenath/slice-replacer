@@ -91,7 +91,3 @@ Enter your Migration API token: *****
 ## 📄 License
 
 MIT – ©2025
-
----
-
-Let me know if you want a version with screenshots or example JSONs.
