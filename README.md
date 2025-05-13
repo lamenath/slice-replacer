@@ -46,7 +46,7 @@ node componentize-slices.js
 
 You will be prompted step-by-step:
 
-1. **Repository ID** (e.g. `ria-demo`)
+1. **Repository ID** (e.g. `repo-demo`)
 2. **Base Document ID** (e.g. `en-us` homepage ID)
 3. **Language Prefix** (e.g. `en`)
 4. **Slice ID to Replace** (e.g. `homepage_boxes`)
@@ -74,7 +74,7 @@ You will be prompted step-by-step:
 ## ✅ Example
 
 ```bash
-Enter your Prismic repository ID: ria-demo
+Enter your Prismic repository ID: repo-demo
 Enter the base document ID: aCMNnBAAACEAZ59a
 Enter the language prefix: en
 Enter the slice ID to replace: homepage_boxes
@@ -83,7 +83,7 @@ Proceed with replacing slices and saving files? (yes/no): yes
 Do you want to push these updates to the repository using the Migration API? (yes/no): yes
 Enter your Migration API token: *****
 ✅ Successfully updated document ...
-📎 Review updated documents in the Migration Release: https://ria-demo.prismic.io/builder/migration
+📎 Review updated documents in the Migration Release: https://repo-demo.prismic.io/builder/migration
 ```
 
 ---
